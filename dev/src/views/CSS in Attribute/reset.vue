@@ -3,8 +3,8 @@
     <img src="../../assets/ress.png" wd-lg>
     <p>
         CSS Reset 为便于理解的开发体验提供了坚实的基础。
-        我们基于 normalize.css ，又据实践需要，补充了很多符合常识、符合正常感知的设定，比如为 <q>&lt;code&gt;</q> 元素设置
-        <q>font-family: monospace</q> 等，更多细节可在 resse GitHub 仓库 中查看。
+        我们基于 normalize.css ，又据实践需要，补充了符合常识、符合正常感知的设定，比如为 <q>&lt;code&gt;</q> 元素设置
+        <q>font-family: monospace</q> 等，更多细节可在 reset GitHub 仓库 中查看。
     </p>
     <h3 tag-bar mt-sm mt-12>基本特性</h3>
     <p>以下列出了 CSS Reset 的主要特性：</p>

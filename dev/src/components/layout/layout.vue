@@ -1,6 +1,6 @@
 <template>
     <div class="headbar"  flex jc ac sm catskill lighten>
-            Quick archetype for Vue3, CSS in Attribute and best parctises.
+            <i bold ls-xs>GodSpeed</i> - A CSS in Attribute lib with best parctises.
     </div>
     <div flex fill style="height: calc(100% - 40px)">
         <div class="sidebar" col-10 flex je>
@@ -30,7 +30,6 @@
 
 <script>
 import sidebar from '@/router/sidebar'
-import isMobile from 'ismobilejs'
 export default {
     name: "layout",
     created(){
